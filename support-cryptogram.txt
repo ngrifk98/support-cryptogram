@@ -1,0 +1,8 @@
+After I tried cracking the whole code, the message becomes:
+
+SUPPORT | SELF-HELPFULNESS | NETWORK SUPPORT | SOFTWARE SUPPORT AND MORE
+
+
+So I think the decoded message is:
+
+"Your main avenues for support are: Support, Self-Helpfulness, Network Support, Software Support and More."
